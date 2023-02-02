@@ -12,5 +12,5 @@ for (let i = 0; i <= b; i++) {
     // jikan i dibagi 2 != 0 (bilangan ganjil)
     ganjil = [...ganjil, i];
   }
-  console.log({ ganjil, genap });
 }
+console.log({ ganjil, genap });
